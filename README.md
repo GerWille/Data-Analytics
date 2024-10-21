@@ -1,2 +1,2 @@
-# Power-BI
-My Power BI projects
+# Data-Analytics
+My Data Analytics projects
